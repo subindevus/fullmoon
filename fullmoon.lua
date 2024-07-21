@@ -57,7 +57,7 @@ local Embed = {
         thumbnail = { url = MoonPhases[moonIndex].url },
         image = { url = waifuUrl },
         footer = {
-            text = os.date("𝐓𝐢𝐦𝐞: %X").." | 𝐒𝐮𝐛𝐢𝐧 𝐁𝐨𝐭 | 𝐂𝐫𝐞𝐚𝐭𝐞 𝐁𝐲 𝐒𝐮𝐛𝐢𝐧 𝐃𝐞𝐯 | https://discord.gg/BxjqHMMsTb",
+            text = os.date("𝐓𝐢𝐦𝐞: %X").." | 𝐒𝐮𝐛𝐢𝐧 𝐁𝐨𝐭 | 𝐂𝐫𝐞𝐚𝐭𝐞 𝐁𝐲 𝐒𝐮𝐛𝐢𝐧 𝐃𝐞𝐯 | https://discord.gg/yXmJD7RknY",
             icon_url = "https://cdn.top.gg/icons/15ffc41e863b684677d831ace7bf41dc.png"
         }
     }}
