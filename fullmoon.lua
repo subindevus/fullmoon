@@ -32,9 +32,6 @@ local PlayerUserId = Player.UserId
 local PlayerPing = game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString()
 
 local MoonMessage = ('```' .. MoonIcon .. ' : %.2f%%```'):format(MoonPercent)
-if MoonPercent == 100 then
-    MoonMessage = MoonMessage .. ' - 𝐓𝐫𝐚̆𝐧𝐠 𝐓𝐫𝐨̀𝐧'
-end
 
 local color = MoonPercent == 100 and 0xFFFF00 or 0x8B0000
 
